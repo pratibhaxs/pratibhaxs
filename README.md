@@ -27,6 +27,4 @@ I'm always open to collaboration, feedback, or just a friendly tech chat!
 
 Let’s connect and grow together in this amazing tech journey!
 
----
 
-Would you like this formatted in Markdown or added to a GitHub README?
