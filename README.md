@@ -1,26 +1,17 @@
 ## 👩‍💻 About Me
 
-Hi! I'm **Pratibha Swami**, a passionate **BTech Computer Science student** with a strong interest in **web development and modern UI design**.
+Hi! I'm **Pratibha Swami**, a passionate **BTech Computer Science student** exploring the intersection of **web development, backend systems, and AI automation**.
 
-I enjoy building clean, responsive, and user-focused digital experiences, and I’m constantly exploring new technologies to improve my skills and create impactful projects.
-
----
-
-## 🚀 What I Do
-
-* 🌐 Build modern web interfaces
-* 🎨 Focus on **UI/UX design principles** for better user experience
-* ⚙️ Learning **full-stack development** (Node.js, MongoDB)
-* 💡 Turning ideas into real-world web applications
+I enjoy building smart, scalable, and user-friendly applications while continuously learning how to integrate **AI into real-world solutions**.
 
 ---
 
 ## 🌱 Currently Exploring
 
-* **Backend architecture**
-* **Animations & interactions**
-* **Full-stack development & APIs**
-* Building **real-world SaaS-style projects**
+* Diving deeper into **backend development**
+* **AI-powered workflows & automation tools**
+* API integration and system design basics
+* Building **full-stack & SaaS-style projects**
 
 ---
 
@@ -28,9 +19,9 @@ I enjoy building clean, responsive, and user-focused digital experiences, and I�
 
 Check out my repositories to explore my work, including:
 
-* Responsive web applications
-* UI/UX-focused designs
-* Full-stack learning projects
+* Frontend & full-stack applications
+* Automation-based projects
+* Real-world problem-solving builds
 
 ---
 
@@ -44,4 +35,4 @@ I'm always open to collaboration, learning, and exciting opportunities!
 
 ---
 
-⭐ *“Building, learning, and growing — one project at a time.”*
+⭐ *“Learning, building, and automating — one step at a time.”*
