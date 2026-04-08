@@ -1,9 +1,6 @@
 ## 👩‍💻 About Me
 
 Hi! I'm **Pratibha Swami**, a passionate **BTech Computer Science student** exploring the intersection of **web development, backend systems, and AI automation**.
-
-I enjoy building smart, scalable, and user-friendly applications while continuously learning how to integrate **AI into real-world solutions**.
-
 ---
 
 ## 🌱 Currently Exploring
