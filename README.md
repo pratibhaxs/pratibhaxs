@@ -1,30 +1,47 @@
 ## 👩‍💻 About Me
 
-Hi! I'm **Pratibha Swami**, a passionate and curious **BTech student in Computer Science and Engineering**, currently exploring the exciting world of **web development**. I'm on a journey to turn ideas into clean, functional, and user-friendly websites and applications.
+Hi! I'm **Pratibha Swami**, a passionate **BTech Computer Science student** with a strong interest in **web development and modern UI design**.
+
+I enjoy building clean, responsive, and user-focused digital experiences, and I’m constantly exploring new technologies to improve my skills and create impactful projects.
 
 ---
 
-## 🌱 My Interests
+## 🚀 What I Do
 
-* 🌐 Front-end Web Development (HTML, CSS, JavaScript, React)
-* 🧠 Learning UI/UX Principles
-* 🛠 Exploring full-stack technologies like Node.js and MongoDB
-* 💡 Constantly improving my coding skills and diving into new tech
+* 🌐 Build modern web interfaces
+* 🎨 Focus on **UI/UX design principles** for better user experience
+* ⚙️ Learning **full-stack development** (Node.js, MongoDB)
+* 💡 Turning ideas into real-world web applications
 
 ---
 
-## 💼 My Projects
+## 🌱 Currently Exploring
 
-Check out my repositories to see my projects.
+* **Backend architecture**
+* **Animations & interactions**
+* **Full-stack development & APIs**
+* Building **real-world SaaS-style projects**
 
-## 📬 Get in Touch
+---
 
-I'm always open to collaboration, feedback, or just a friendly tech chat!
+## 💼 Projects
 
-* 📧 Email: pratibhaswami561@gmail.com
+Check out my repositories to explore my work, including:
+
+* Responsive web applications
+* UI/UX-focused designs
+* Full-stack learning projects
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to collaboration, learning, and exciting opportunities!
+
+* 📧 Email: **[pratibhaswami561@gmail.com](mailto:pratibhaswami561@gmail.com)**
 * 🔗 LinkedIn: https://www.linkedin.com/in/pratibha-swami-a98782291/
-* 💻 GitHub: You're already here 😊
+* 💻 GitHub: You’re already here 😊
 
-Let’s connect and grow together in this amazing tech journey!
+---
 
-
+⭐ *“Building, learning, and growing — one project at a time.”*
